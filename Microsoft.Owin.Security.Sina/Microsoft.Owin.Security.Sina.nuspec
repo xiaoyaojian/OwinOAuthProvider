@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.Owin.Security.Sina</id>
+    <version>1.1.0.0</version>
+    <title>Microsoft.Owin.Security.Sina</title>
+    <authors>xiaoyaojian@126.com</authors>
+    <owners>xiaoyaojian@126.com</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/xiaoyaojian/OwinAuthProvider</projectUrl>
+    <iconUrl>http://www.sinaimg.cn/blog/developer/wiki/LOGO_64x64.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Sina open authentication provider for asp.net</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>Sina OAuth asp.net Provider</tags>
+  </metadata>
+</package>

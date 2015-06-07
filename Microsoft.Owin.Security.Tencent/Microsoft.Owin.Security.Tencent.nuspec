@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Microsoft.Owin.Security.Tencent</id>
+    <version>1.1.0.0</version>
+    <title>Microsoft.Owin.Security.Tencent</title>
+    <authors>xiaoyaojian@126.com</authors>
+    <owners>xiaoyaojian@126.com</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0.html</licenseUrl>
+    <projectUrl>https://github.com/xiaoyaojian/OwinAuthProvider</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tencent open authentication provider for asp.net</description>
+    <copyright>Copyright 2015</copyright>
+    <tags>Tencent OAuth asp.net Provider</tags>
+  </metadata>
+</package>

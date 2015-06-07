@@ -1,0 +1,14 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Microsoft.Owin.Security.Sina.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Microsoft.Owin.Security.Sina.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Microsoft.Owin.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Microsoft.Owin.Security.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Newtonsoft.Json.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Owin.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Microsoft.Owin.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Microsoft.Owin.Security.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\bin\Release\Newtonsoft.Json.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\obj\Release\Microsoft.Owin.Security.Sina.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\obj\Release\Microsoft.Owin.Security.Sina.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\obj\Release\Microsoft.Owin.Security.Sina.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\obj\Release\Microsoft.Owin.Security.Sina.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Sina\obj\Release\Microsoft.Owin.Security.Sina.pdb

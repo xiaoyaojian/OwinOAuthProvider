@@ -1,0 +1,14 @@
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.Tencent.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.Tencent.pdb
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Newtonsoft.Json.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Owin.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\bin\Debug\Newtonsoft.Json.xml
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.csprojResolveAssemblyReference.cache
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.Resources.resources
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.csproj.GenerateResource.Cache
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.dll
+D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.pdb
