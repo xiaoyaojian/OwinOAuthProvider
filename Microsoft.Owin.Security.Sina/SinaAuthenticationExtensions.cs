@@ -24,7 +24,8 @@ namespace Microsoft.Owin.Security.Sina
             return app.UseSinaAuthentication(new SinaAuthenticationOptions
             {
                 AppId = appId,
-                AppSecret = appSecret
+                AppSecret = appSecret,
+                Schema = "https"
             });
         }
     }

@@ -25,7 +25,8 @@ namespace Microsoft.Owin.Security.Tencent
             return app.UseTencentAuthentication(new TencentAuthenticationOptions
             {
                 AppId = appId,
-                AppSecret = appSecret
+                AppSecret = appSecret,
+                Schema="https"
             });
         }
     }

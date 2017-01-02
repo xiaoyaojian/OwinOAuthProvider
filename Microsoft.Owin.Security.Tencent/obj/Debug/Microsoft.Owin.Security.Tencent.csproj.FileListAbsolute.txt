@@ -12,3 +12,17 @@ D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAu
 D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.csproj.GenerateResource.Cache
 D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.dll
 D:\Documents\Documents\Visual Studio 2013\Projects\OwinSecruityPrividers\OwinOAuthProviders\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.pdb
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.Tencent.dll
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.Tencent.pdb
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.dll
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.dll
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Owin.dll
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.xml
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Microsoft.Owin.Security.xml
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\bin\Debug\Newtonsoft.Json.xml
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.csprojResolveAssemblyReference.cache
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.Resources.resources
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.csproj.GenerateResource.Cache
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.dll
+D:\WorkSpace\Documents\GitHub\OwinOAuthProvider\OwinOAuthProvider\Microsoft.Owin.Security.Tencent\obj\Debug\Microsoft.Owin.Security.Tencent.pdb

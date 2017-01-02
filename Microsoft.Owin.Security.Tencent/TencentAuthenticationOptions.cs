@@ -101,6 +101,11 @@ namespace Microsoft.Owin.Security.Tencent
         public string AppSecret { get; set; }
 
         /// <summary>
+        ///  Gets or sets the schema
+        /// </summary>
+        public string Schema { get; set; }
+
+        /// <summary>
         /// Gets the sets of OAuth endpoints used to authenticate against Tencent.
         /// authentication.
         /// </summary>

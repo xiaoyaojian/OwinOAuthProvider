@@ -62,7 +62,7 @@ namespace Microsoft.Owin.Security.Sina
                     return new AuthenticationTicket(null, properties);
                 }
 
-                string requestPrefix = "https://" + Request.Host; // Schema must be HTTPS
+                string requestPrefix = Options.Schema + "://" + Request.Host;
                 string redirectUri = requestPrefix + Request.PathBase + Options.CallbackPath;
 
                 // Build up the body for the token request
@@ -139,7 +139,7 @@ namespace Microsoft.Owin.Security.Sina
             if (challenge != null)
             {
                 string baseUri =
-                    "https" + //Schema must be HTTPS
+                    Options.Schema +
                     Uri.SchemeDelimiter +
                     Request.Host +
                     Request.PathBase;

@@ -64,7 +64,7 @@ namespace Microsoft.Owin.Security.Tencent
                     return new AuthenticationTicket(null, properties);
                 }
 
-                string requestPrefix = "https://" + Request.Host; // Schema must be HTTPS
+                string requestPrefix = Options.Schema + "://" + Request.Host;
                 string redirectUri = requestPrefix + Request.PathBase + Options.CallbackPath;
 
                 string requestQueryString = 
@@ -133,7 +133,7 @@ namespace Microsoft.Owin.Security.Tencent
             if (challenge != null)
             {
                 string baseUri =
-                    "https" + //Schema must be HTTPS
+                    Options.Schema + 
                     Uri.SchemeDelimiter +
                     Request.Host +
                     Request.PathBase;
